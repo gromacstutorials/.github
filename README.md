@@ -18,7 +18,7 @@ and the functions used for the Matplotlib graphs are available [here](https://gi
 
 ## Find all the inputs
 
-The LAMMPS inputs are provided in [a dedicated repository](https://github.com/gromacstutorials/gromacstutorials-inputs),
+The GROMACS inputs are provided in [a dedicated repository](https://github.com/gromacstutorials/gromacstutorials-inputs),
 together with the data files, scripts, and parameter files.
 
 ## Author
