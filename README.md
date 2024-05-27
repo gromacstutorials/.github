@@ -5,13 +5,13 @@ The main website can be accessed [from this page](https://gromacstutorials.githu
 and the functions used for the Matplotlib graphs are available [here](https://github.com/simongravelle/pyplot-perso).
 
 <p float="left">
-    <a href="https://gromacstutorials.github.io/doc-sphinx/build/html/tutorials/bulksolution.html">
+    <a href="https://gromacstutorials.github.io/sphinx/build/html/tutorials/level1/bulk-solution.html">
         <img src="https://github.com/gromacstutorials/gromacstutorials.github.io/blob/version2.0/docs/doc-sphinx/source/tutorials/figures/level1/bulk-solution/avatar-gromacs.png?raw=true" width="32%" />
     </a>
-    <a href="https://gromacstutorials.github.io/doc-sphinx/build/html/tutorials/stretchingpolymer.html">
+    <a href="https://gromacstutorials.github.io/sphinx/build/html/tutorials/level2/stretching-a-polymer.html">
         <img src="https://github.com/gromacstutorials/gromacstutorials.github.io/blob/version2.0/docs/doc-sphinx/source/tutorials/figures/level2/stretching-a-polymer/avatar.png" width="32%" />
     </a>
-    <a href="https://gromacstutorials.github.io/doc-sphinx/build/html/tutorials/solvationenergy.html">
+    <a href="https://gromacstutorials.github.io/sphinx/build/html/tutorials/level3/solvation-energy.html">
         <img src="https://github.com/gromacstutorials/gromacstutorials.github.io/blob/version2.0/docs/doc-sphinx/source/tutorials/figures/level3/solvation-energy/no-field-dark.png" width="32%" />
     </a>
 </p>
