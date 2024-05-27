@@ -1,16 +1,26 @@
-## Hi there 👋
+# GROMACS tutorials
 
-<!--
-**gromacstutorials/gromacstutorials** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Material and guides for beginner GROMACS users.
+The main website can be accessed [from this page](https://gromacstutorials.github.io/),
+and the functions used for the Matplotlib graphs are available [here](https://github.com/simongravelle/pyplot-perso).
 
-Here are some ideas to get you started:
+<p float="left">
+    <a href="https://gromacstutorials.github.io/doc-sphinx/build/html/tutorials/bulksolution.html">
+        <img src="https://github.com/gromacstutorials/gromacstutorials.github.io/blob/version2.0/docs/doc-sphinx/source/tutorials/figures/bulksolution/avatar-gromacs.png?raw=true" width="32%" />
+    </a>
+    <a href="https://gromacstutorials.github.io/doc-sphinx/build/html/tutorials/stretchingpolymer.html">
+        <img src="https://github.com/gromacstutorials/gromacstutorials.github.io/blob/version2.0/docs/doc-sphinx/source/tutorials/figures/stretchingpolymer/avatar.png" width="32%" />
+    </a>
+    <a href="https://gromacstutorials.github.io/doc-sphinx/build/html/tutorials/solvationenergy.html">
+        <img src="https://github.com/gromacstutorials/gromacstutorials.github.io/blob/version2.0/docs/doc-sphinx/source/tutorials/figures/solvationenergy/no-field-dark.png" width="32%" />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find all the inputs
+
+The LAMMPS inputs are provided in [a dedicated repository](https://github.com/gromacstutorials/gromacstutorials-inputs),
+together with the data files, scripts, and parameter files.
+
+## Author
+
+[Simon Gravelle](https://github.com/simongravelle) from LiPhy, UGA, CNRS, France.
