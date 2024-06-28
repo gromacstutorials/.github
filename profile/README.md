@@ -6,13 +6,13 @@ and the functions used for the Matplotlib graphs are available [here](https://gi
 
 <p float="left">
     <a href="https://gromacstutorials.github.io/sphinx/build/html/tutorials/level1/bulk-solution.html">
-        <img src="https://github.com/gromacstutorials/gromacstutorials.github.io/blob/version2.0/docs/sphinx/source/tutorials/figures/level1/bulk-solution/avatar-gromacs.png?raw=true" width="32%" />
+        <img src="https://github.com/gromacstutorials/gromacstutorials.github.io/blob/2024.2/docs/sphinx/source/tutorials/figures/level1/bulk-solution/avatar-gromacs.png?raw=true" width="32%" />
     </a>
     <a href="https://gromacstutorials.github.io/sphinx/build/html/tutorials/level2/stretching-a-polymer.html">
-        <img src="https://github.com/gromacstutorials/gromacstutorials.github.io/blob/version2.0/docs/sphinx/source/tutorials/figures/level2/stretching-a-polymer/avatar.png" width="32%" />
+        <img src="https://github.com/gromacstutorials/gromacstutorials.github.io/blob/2024.2/docs/sphinx/source/tutorials/figures/level2/stretching-a-polymer/avatar.png" width="32%" />
     </a>
     <a href="https://gromacstutorials.github.io/sphinx/build/html/tutorials/level3/solvation-energy.html">
-        <img src="https://github.com/gromacstutorials/gromacstutorials.github.io/blob/version2.0/docs/sphinx/source/tutorials/figures/level3/solvation-energy/no-field-dark.png" width="32%" />
+        <img src="https://github.com/gromacstutorials/gromacstutorials.github.io/blob/2024.2/docs/sphinx/source/tutorials/figures/level3/solvation-energy/no-field-dark.png" width="32%" />
     </a>
 </p>
 
