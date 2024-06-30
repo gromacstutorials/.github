@@ -4,6 +4,8 @@ Material and guides for beginner GROMACS users.
 The main website can be accessed [from this page](https://gromacstutorials.github.io/),
 and the functions used for the Matplotlib graphs are available [here](https://github.com/simongravelle/pyplot-perso).
 
+The tutorials are compatible with the 2024.2 release of GROMACS.
+
 <p float="left">
     <a href="https://gromacstutorials.github.io/sphinx/build/html/tutorials/level1/bulk-solution.html">
         <img src="https://raw.githubusercontent.com/gromacstutorials/gromacstutorials.github.io/2024.2/docs/avatars/level1/bulk-solution/bulk-solution-gromacs.png" width="32%" />
