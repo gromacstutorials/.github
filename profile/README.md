@@ -1,4 +1,4 @@
-# GROMACS tutorials
+# GROMACS tutorials ![GitHub Org's stars](https://img.shields.io/github/stars/gromacstutorials?style=for-the-badge)
 
 Material and guides for beginner GROMACS users.
 The main website can be accessed [from this page](https://gromacstutorials.github.io/),
